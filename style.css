@@ -1,0 +1,44 @@
+.header{
+    background-image: url(./main-bg.jpg);
+    min-height: 500px;
+    background-position: center;
+    background-size: cover;
+}
+.text-center h1{
+    font-size: 50px;
+}
+.text-center p{
+    font-size: 18px;
+}
+.products{
+    background: #EBEBEB;
+}
+.products-card{
+    border-radius: 6px;
+    transform: translateY(-40px);
+}
+.products-heading{
+    color: #2C2A2A;
+    font-size: 22px;
+}
+.products-text{
+    color: #9B9B9B;
+    font-size: 16px;
+}
+.products-item{
+    border-radius: 6px;
+}
+.footer{
+    padding-top: 37px; 
+    padding-bottom: 57px;
+}
+.border-6{
+    border-radius: 6px;
+}
+.comment textarea{
+  height: 86px;
+  margin: 10px 0;
+}
+.comment button{
+  background: #544294;
+}
